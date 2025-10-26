@@ -37,7 +37,7 @@ Aplicación Android nativa para administrar tus finanzas personales de forma fá
   - 🏠 Hogar
   - 👕 Ropa
   - 💻 Tecnología
-  - 📦 Otros
+  - 📦 Otros.
 
 - **Experiencia de Usuario**
   - 🎨 Diseño moderno con Material Design 3
