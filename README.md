@@ -25,7 +25,7 @@ Aplicación Android nativa para administrar tus finanzas personales de forma fá
   - 💵 Cálculo automático del total mensual
   - 📊 Estadísticas por categoría con porcentajes
   - 🔍 Filtrado por categoría
-  - 📅 Navegación entre meses (anterior/siguiente)
+  - 📅 Navegación entre meses (anterior/siguiente.)
 
 - **Categorías Predefinidas**
   - 🍔 Alimentación
