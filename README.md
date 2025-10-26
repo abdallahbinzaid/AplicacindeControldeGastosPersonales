@@ -1,4 +1,4 @@
-# 💰 Control de Gastos Personales
+# 💰 Control de Gastos Personales.
 
 Aplicación Android nativa para administrar tus finanzas personales de forma fácil y segura.
 
